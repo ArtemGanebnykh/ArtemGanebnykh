@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtemGanebnykh
-- 👀 I’m interested in market customization
+- 👀 I’m interested in Factory Automatisation
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on discord
 - 📫 Email me on artemsergeevich1995@outlook.com
